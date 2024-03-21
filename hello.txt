@@ -1,6 +1,7 @@
 hello wawu!hello git!测试下hot-fix分支
-hello wawu!hello git!
 当前行被master分支改了下，用来做merge分支冲突测试
+第二行在new_branch改一下
+hello wawu!hello git!
 hello wawu!hello git!
 hello wawu!hello git!
 hello wawu!hello git!
